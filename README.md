@@ -2,7 +2,7 @@
 Aim of this datascience project is to predict if the client will subscribe to a term deposit based on the analysis of the marketing campaigns.
 # Problem Statement
 ### Business Use Case
-There has been a revenue decline in a Portuguese Bank and they would like to know what actions to take. After investigation, they found that the root cause was that their customers are not investing enough for long term deposits (FD and RD). So the bank would like to identify existing customers that have higher chance to subscribe for a long term deposit and focus marketing efforts on such customers.
+There has been a revenue decline in a Portuguese Bank and they would like to know what actions to take. After investigation, they found that the root cause was that their customers are not investing enough for long term deposits. So the bank would like to identify existing customers that have higher chance to subscribe for a long term deposit and focus marketing efforts on such customers.
 
 ### Data Science Problem Statement
 Looking at the historical data of all the campaigns the bank has done, the aim is to look for the customers who are potential for a long term deposit and when should the bank contact those customers.
