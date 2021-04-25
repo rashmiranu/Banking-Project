@@ -1,4 +1,4 @@
-# Banking-Project (CLassification)
+# Banking-Project (Classification)
 Aim of this datascience project is to predict if the client will subscribe to a term deposit based on the analysis of the marketing campaigns.
 # Problem Statement
 ### Business Use Case
